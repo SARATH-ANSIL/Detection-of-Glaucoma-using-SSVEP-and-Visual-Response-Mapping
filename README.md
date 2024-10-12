@@ -44,7 +44,7 @@ pip install torch numpy matplotlib seaborn mne pyriemann scikit-learn pandas
 - 
 ## Running the Project
 Open the Jupyter Notebook:
-`jupyter notebook detection.ipynb`
+`jupyter notebook detection-of-glaucoma-using-SSVEP-and-Visual-response-mapping.ipynb`
 
 Follow the instructions in the notebook to load your dataset and initialize the model.
 
